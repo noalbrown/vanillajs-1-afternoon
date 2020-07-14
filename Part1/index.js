@@ -70,8 +70,7 @@ function play(click) {
   }
 }
 
-const reset = document.getElementsByClassName('row')
 
-function afterTheWinnerIsRevealed() {
-  document.getElementById().reset();
-}
+// function afterTheWinnerIsRevealed() {
+//   document.getElementById('click').reset();
+// }
